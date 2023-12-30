@@ -1,9 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-sawa&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-sawa&repo=convoychat" />
-</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sawa
-)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-sawa&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s-sawa&theme=onedark&show_icons=ture" />
+</p>
